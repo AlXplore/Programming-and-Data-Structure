@@ -13,7 +13,7 @@ P3: Build a mini-world where different creatures live and interact with each oth
 
 P4: Implement a two-player board game 'Quarto', using Abstract Data Types (ADTs), interfaces (abstract base classes) and other techniques that are often used in object-oriented programming (such as inheritance and polymophic).
 
-P5: Build a reverse-Polish notation calculator and a call center simulation program using dynamic memory management and template container class (list, stack and queue).
+P5: Build a reverse-Polish notation calculator and a call center simulation program using dynamic memory management, opeartor overloading and template container class (list, stack and queue).
 
 CAUTION:
 Please abide by the Honor Code if you are now taking this course.
